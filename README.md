@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Este projeto é uma aplicação desenvolida na Semana NLW - RocketSeet, permite a autenticcação  dos usuários atravéz do GitHub, e criações de comentario para o evento DoWhile.
+Este projeto é uma aplicação desenvolida na Semana NLW - RocketSeat, permite a autenticcação  dos usuários atravéz do GitHub, e criações de comentario para o evento DoWhile.
 
 ## 🔖 Layout
 
